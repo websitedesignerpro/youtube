@@ -1,0 +1,25 @@
+div.a {
+    text-indent: 70px;
+    background: #F8C8DC;
+    color: white;
+}
+
+div.b {
+    text-indent: 10px;
+}
+
+div.c {
+    text-indent: 2em;
+}
+
+div.d {
+    text-indent: 30%;
+}
+
+img{
+    object-fit: fill;
+    
+}
+
+
+
